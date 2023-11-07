@@ -112,3 +112,8 @@ bei github hinterlegen https://github.com/settings/keys
 - 
 
 ## github: Actions (CI/CD)
+
+## Links
+
+(git docs)[https://git-scm.com/docs]
+(oh-shit-git)[https://ohshitgit.com/]
