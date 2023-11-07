@@ -82,7 +82,7 @@ bei github hinterlegen https://github.com/settings/keys
 
 ## Basics: Zusammenfassung
 
-![git commands](https://github.com/ByteByteGoHq/system-design-101/blob/ab9e6ae3106398940974b119882872c11a6ed2cf/images/git-commands.png)
+![height:500px](img/git-commands.png)
 
 ## Einschub: Nutzt Werkzeuge
 
@@ -96,6 +96,10 @@ bei github hinterlegen https://github.com/settings/keys
 ## Merge
 
 ## Rebase
+
+## Advanced: `git rebase` vs `git merge`
+
+![height:500px](img/git-merge-git-rebase.jpeg)
 
 ## Reset
 
@@ -117,3 +121,7 @@ bei github hinterlegen https://github.com/settings/keys
 
 (git docs)[https://git-scm.com/docs]
 (oh-shit-git)[https://ohshitgit.com/]
+
+## Bildquellen
+
+[bytebytego.com](https://github.com/ByteByteGoHq/system-design-101#git)
