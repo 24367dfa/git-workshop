@@ -36,7 +36,7 @@ mkdir my_awesome_repo && cd my_awesome_repo
 git init
 touch README.md
 git add README.md
-git commit
+git commit -m "initial commit"
 ```
 
 ## Basics: `git status`
@@ -92,10 +92,11 @@ bei github hinterlegen https://github.com/settings/keys
 
 ## Intermediate: `git log`
 
-
-## Merge
-
-## Rebase
+```
+git log
+git log -5
+git log -L 1,10:README.md
+```
 
 ## Advanced: `git rebase` vs `git merge`
 
