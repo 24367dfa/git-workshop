@@ -98,6 +98,17 @@ git log -5
 git log -L 1,10:README.md
 ```
 
+## Intermediate: `git tag`
+
+Name für einen bestimmten Commit
+
+```
+git tag v1.0.0
+git push --tags
+```
+
+Achtung: einmal veröffentlichte Tags nicht löschen!
+
 ## Intermediate: `git merge`
 
 Branches zusamen führen
