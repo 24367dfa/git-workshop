@@ -48,8 +48,8 @@ git status
 ## Einschub: `git config`
 
 ```bash
-git config --set --global user.email=david.kilias@gmail.com
-git config --set --global user.name=David Kilias
+git config --set --global user.email="david.kilias@gmail.com"
+git config --set --global user.name="David Kilias"
 ```
 
 ## Basics: `git branch`
