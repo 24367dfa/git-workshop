@@ -36,7 +36,7 @@ mkdir my_awesome_repo && cd my_awesome_repo
 git init
 touch README.md
 git add README.md
-git commit -m "initial commit"
+git commit
 ```
 
 ## Basics: `git status`
@@ -92,6 +92,11 @@ bei github hinterlegen https://github.com/settings/keys
 
 ## Intermediate: `git log`
 
+```
+git log
+git log -5
+git log -L 1,10:README.md
+```
 
 ## Intermediate: `git merge`
 
@@ -114,7 +119,7 @@ git merge my-new-feature
 
 ## Reset
 
-## github
+## github (gitlab, codeberg, ...)
 
 - Social Network für Entwickler
 - Hosted git mit Drumherum
@@ -127,6 +132,29 @@ git merge my-new-feature
 - 
 
 ## github: Actions (CI/CD)
+
+Einen Computer mit dem Repo definierte Dinge tun lassen
+
+- linting
+- static code analysis
+- build
+- test
+- release
+- ...
+
+## github: Actions Beispiele
+
+- (Veröffentlichung dieser Präsentation)[https://github.com/24367dfa/git-workshop/blob/main/.github/workflows/marp-to-pages.yml]
+- (Build und Release von Docker Containern)[https://github.com/FreifunkMD/md.freifunk.net-bind9/tree/main/.github/workflows]
+- (Versand der Reminder fürs Plenum)[https://github.com/netz39/istheuteplenum/blob/gh-pages/.github/workflows/meeting-reminder.yaml]
+
+## Advanced: Conventional Commits
+
+## Advanced: gitmoji😜
+
+Projekt unsere git history soll schöner werden
+
+(gitmoji.dev)[https://gitmoji.dev/]
 
 ## Links
 
