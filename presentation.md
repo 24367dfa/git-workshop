@@ -92,11 +92,21 @@ bei github hinterlegen https://github.com/settings/keys
 
 ## Intermediate: `git log`
 
+
+## Intermediate: `git merge`
+
+Branches zusamen führen
+
 ```
-git log
-git log -5
-git log -L 1,10:README.md
+git checkout -b my-new-feature
+touch feature.md
+git add feature.md
+git commit
+git checkout main
+git merge my-new-feature
 ```
+
+## Intermediate: `git rebase`
 
 ## Advanced: `git rebase` vs `git merge`
 
