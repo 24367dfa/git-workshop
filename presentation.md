@@ -36,7 +36,7 @@ mkdir my_awesome_repo && cd my_awesome_repo
 git init
 touch README.md
 git add README.md
-git commit -m "initial commit"
+git commit
 ```
 
 ## Basics: `git status`
