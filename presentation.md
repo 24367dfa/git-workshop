@@ -92,7 +92,7 @@ bei github hinterlegen https://github.com/settings/keys
 
 ## Intermediate: `git log`
 
-```
+```bash
 git log
 git log -5
 git log -L 1,10:README.md
@@ -102,7 +102,7 @@ git log -L 1,10:README.md
 
 Name für einen bestimmten Commit
 
-```
+```bash
 git tag v1.0.0
 git push --tags
 ```
@@ -113,7 +113,7 @@ Achtung: einmal veröffentlichte Tags nicht löschen!
 
 Branches zusamen führen
 
-```
+```bash
 git checkout -b my-new-feature
 touch feature.md
 git add feature.md
