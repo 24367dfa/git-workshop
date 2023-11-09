@@ -161,7 +161,6 @@ Beiträge zu fremden git Repositories
 Review, Feedback, Diskussion
 CI Pipelines mit Tests/Checks etc.
 
-
 ## github: Fork
 
 Für die Arbeit an Projekten, bei denen man nicht Mitglied ist
@@ -217,4 +216,4 @@ Projekt unsere git history soll schöner werden
 
 ## Lizenz
 
-[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
