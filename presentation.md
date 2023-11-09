@@ -124,6 +124,22 @@ git merge my-new-feature
 
 ## Intermediate: `git rebase`
 
+Eigenen Branch ans Ende verpflanzen
+Falls nach dem Abzweigen Änderungen am Zielbranch passiert sind
+
+```bash
+git checkout -b my-new-feature
+touch feature.md
+git add feature.md
+git commit
+# some days later
+git fetch
+git rebase -i origin/main
+git push --force-with-lease
+```
+
+Kein Force-Push auf default Branches!
+
 ## Advanced: `git rebase` vs `git merge`
 
 ![height:500px](img/git-merge-git-rebase.jpeg)
