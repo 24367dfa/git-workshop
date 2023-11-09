@@ -179,6 +179,13 @@ Einen Computer mit dem Repo definierte Dinge tun lassen
 - release
 - ...
 
+## github: Actions - Trigger
+
+- Schedule
+- Pull Request Events
+- Commit Events
+- [gitub Doku: workflow triggers](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows)
+
 ## github: Actions Beispiele
 
 - [Veröffentlichung dieser Präsentation](https://github.com/24367dfa/git-workshop/blob/main/.github/workflows/marp-to-pages.yml)
