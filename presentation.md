@@ -140,11 +140,13 @@ git push --force-with-lease
 
 Kein Force-Push auf default Branches!
 
-## Advanced: `git rebase` vs `git merge`
+## Intermediate: `git rebase` vs `git merge`
 
 ![height:500px](img/git-merge-git-rebase.jpeg)
 
-## Reset
+## Intermediate: `git reset`
+
+
 
 ## github (gitlab, codeberg, ...)
 
@@ -152,9 +154,13 @@ Kein Force-Push auf default Branches!
 - Hosted git mit Drumherum
 - wiki, diskussionen, issue tracker, CI, ...
 
-## github: Pullrequests
+## github: Pull Requests
 
-- Review
+Zusammenarbeit mit anderen
+Beiträge zu fremden git Repositories
+Review, Feedback, Diskussion
+CI Pipelines mit Tests/Checks etc.
+
 
 ## github: Fork
 
