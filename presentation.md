@@ -155,8 +155,12 @@ Kein Force-Push auf default Branches!
 ## github: Pullrequests
 
 - Review
-- Fork
-- 
+
+## github: Fork
+
+Für die Arbeit an Projekten, bei denen man nicht Mitglied ist
+Private Kopie mit Verknüpfung zum upstream Repository
+Pullrequests vom fork zu upstream
 
 ## github: Actions (CI/CD)
 
