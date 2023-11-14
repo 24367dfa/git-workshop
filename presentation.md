@@ -207,7 +207,7 @@ Projekt unsere git history soll schöner werden
 
 ## Links
 
-[git docs](https://git-scm.com/docsr)
+[git docs](https://git-scm.com/docs)
 [oh-shit-git](https://ohshitgit.com/)
 
 ## Bildquellen
