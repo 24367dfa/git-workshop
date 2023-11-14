@@ -159,7 +159,7 @@ git reset --hard origin/master
 
 - Social Network für Entwickler
 - Hosted git mit Drumherum
-- wiki, diskussionen, issue tracker, CI, ...
+- Wiki, Diskussionen, issue tracker, CI, ...
 
 ## github: Pull Requests
 
@@ -171,8 +171,8 @@ CI Pipelines mit Tests/Checks etc.
 ## github: Fork
 
 Für die Arbeit an Projekten, bei denen man nicht Mitglied ist
-Private Kopie mit Verknüpfung zum upstream Repository
-Pullrequests vom fork zu upstream
+Private Kopie mit Verknüpfung zum `upstream` Repository
+Pullrequests vom `fork` zu `upstream`
 
 ## github: Actions (CI/CD)
 
