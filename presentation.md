@@ -146,7 +146,14 @@ Kein Force-Push auf default Branches!
 
 ## Intermediate: `git reset`
 
-
+```bash
+# verwerfen aller Änderungen
+git reset --
+# Verwerfen der Änderungen an einer Datei
+git reset -- example.file
+# Zurücksetzen auf zB den Stand in einem remote 
+git reset --hard origin/master
+```
 
 ## github (gitlab, codeberg, ...)
 
