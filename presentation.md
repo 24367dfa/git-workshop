@@ -74,7 +74,7 @@ ein Repository kann mehr als ein remote haben
 ## Einschub: SSH Key
 
 ```bash
-ssh-keygen -t ed_25519 -f ~/.ssh/id_workshop
+ssh-keygen -t ed25519 -f ~/.ssh/id_workshop
 cat ~/.ssh/id_workshop.pub | xclip -selection c
 ```
 
