@@ -111,7 +111,7 @@ Achtung: einmal veröffentlichte Tags nicht löschen!
 
 ## Intermediate: `git merge`
 
-Branches zusamen führen
+Branches zusammenführen
 
 ```bash
 git checkout -b my-new-feature
