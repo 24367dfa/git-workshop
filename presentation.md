@@ -65,7 +65,8 @@ git branch -d my-test-branch
 ## Basics: `git remote`
 
 ```bash
-git remote set-url origin git@github.com:24367dfa/my_awesome_repo.git
+# TODO vorher in github repo anlegen
+git remote add origin git@github.com:24367dfa/my_awesome_repo.git
 git push -u origin main 
 ```
 
