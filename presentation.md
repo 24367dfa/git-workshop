@@ -17,7 +17,7 @@ https://github.com/24367dfa
 ## Was ist git?
 
 - VCS - Version Control System
-- ist auf Linux Torvalds Mist gewachsen - für Entwicklung von Linux
+- ist auf Linus Torvalds Mist gewachsen - für Entwicklung von Linux
 - vorallem für Source Code
 - funktioniert aber für jegliche plaintext files
 - inzwischen das am weitesten verbreitete VCS tool - Industriestandard
