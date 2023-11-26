@@ -17,7 +17,7 @@ https://github.com/24367dfa
 ## Was ist git?
 
 - VCS - Version Control System
-- ist auf Linux Torvalds Mist gewachsen - für Entwicklung von Linux
+- ist auf Linus Torvalds Mist gewachsen - für Entwicklung von Linux
 - vorallem für Source Code
 - funktioniert aber für jegliche plaintext files
 - inzwischen das am weitesten verbreitete VCS tool - Industriestandard
@@ -65,7 +65,8 @@ git branch -d my-test-branch
 ## Basics: `git remote`
 
 ```bash
-git remote set-url origin git@github.com:24367dfa/my_awesome_repo.git
+# TODO vorher in github repo anlegen
+git remote add origin git@github.com:24367dfa/my_awesome_repo.git
 git push -u origin main 
 ```
 
@@ -190,13 +191,13 @@ Einen Computer mit dem Repo definierte Dinge tun lassen
 - Schedule
 - Pull Request Events
 - Commit Events
-- [gitub Doku: workflow triggers](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows)
+- [github Doku: workflow triggers](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows)
 
 ## github: Actions Beispiele
 
-- [Veröffentlichung dieser Präsentation](https://github.com/24367dfa/git-workshop/blob/main/.github/workflows/marp-to-pages.yml)
-- [Build und Release von Docker Containern](https://github.com/FreifunkMD/md.freifunk.net-bind9/tree/main/.github/workflows)
-- [Versand der Reminder fürs Plenum](https://github.com/netz39/istheuteplenum/blob/gh-pages/.github/workflows/meeting-reminder.yaml)
+- (Veröffentlichung dieser Präsentation)[https://github.com/24367dfa/git-workshop/blob/main/.github/workflows/marp-to-pages.yml]
+- (Build und Release von Docker Containern)[https://github.com/FreifunkMD/md.freifunk.net-bind9/tree/main/.github/workflows]
+- (Versand der Reminder fürs Plenum)[https://github.com/netz39/istheuteplenum/blob/gh-pages/.github/workflows/meeting-reminder.yaml]
 
 ## Advanced: Conventional Commits
 
