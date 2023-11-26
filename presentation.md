@@ -203,9 +203,9 @@ Einen Computer mit dem Repo definierte Dinge tun lassen
 
 Was schreibe ich eigentlich in meine Commit Messages rein und warum?
 
-(Conventional Commits)[https://www.conventionalcommits.org/en/v1.0.0/]
-(Semantic Versioning)[https://semver.org/lang/de/]
-(Keep a Changelog)[https://keepachangelog.com/en/1.1.0/]
+[Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+[Semantic Versioning](https://semver.org/lang/de/)
+[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 
 ## Advanced: gitmoji😜
 
