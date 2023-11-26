@@ -195,9 +195,9 @@ Einen Computer mit dem Repo definierte Dinge tun lassen
 
 ## github: Actions Beispiele
 
-- (Veröffentlichung dieser Präsentation)[https://github.com/24367dfa/git-workshop/blob/main/.github/workflows/marp-to-pages.yml]
-- (Build und Release von Docker Containern)[https://github.com/FreifunkMD/md.freifunk.net-bind9/tree/main/.github/workflows]
-- (Versand der Reminder fürs Plenum)[https://github.com/netz39/istheuteplenum/blob/gh-pages/.github/workflows/meeting-reminder.yaml]
+- [Veröffentlichung dieser Präsentation](https://github.com/24367dfa/git-workshop/blob/main/.github/workflows/marp-to-pages.yml)
+- [Build und Release von Docker Containern](https://github.com/FreifunkMD/md.freifunk.net-bind9/tree/main/.github/workflows)
+- [Versand der Reminder fürs Plenum](https://github.com/netz39/istheuteplenum/blob/gh-pages/.github/workflows/meeting-reminder.yaml)
 
 ## Advanced: Conventional Commits
 
